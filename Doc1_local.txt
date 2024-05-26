@@ -21,4 +21,9 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 >>>>>>> branch1
 
 
+<<<<<<< HEAD
 1) Editing the file in the local
+=======
+2) Edited the file in the server
+
+>>>>>>> b03d1fa875f91c9df9e0e8168c21041ec55c1c20
